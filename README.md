@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
-# Oi, eu sou o Matheus <img width="1886" height="917" alt="image" src="https://github.com/user-attachments/assets/2a4deae9-8f63-4038-81d7-ae978446d1e5" />
-
+# Oi, eu sou o Matheus ☯
+<img width="1886" height="917" alt="image" src="https://github.com/user-attachments/assets/2a4deae9-8f63-4038-81d7-ae978446d1e5" />
 Estudante de programação em Porto Alegre, aprendendo a criar sites e a resolver problemas com código.
 
 ## O que eu uso
