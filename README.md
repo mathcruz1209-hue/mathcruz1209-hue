@@ -1,6 +1,6 @@
 ![Banner](banner-cruz.svg)
 
-# Oi, eu sou o Matheus <img src="yinyang.svg" width="32" align="center">
+# Oi, eu sou o Matheus <img src="yinyang-pb.svg" width="32" align="center">
 Estudante de programação em Porto Alegre, aprendendo a criar sites e a resolver problemas com código.
 
 ## O que eu uso
