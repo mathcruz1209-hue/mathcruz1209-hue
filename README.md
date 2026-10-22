@@ -1,6 +1,6 @@
 ![Banner](banner-cruz.svg)
 
-# Oi, eu sou o Matheus ☯
+# Oi, eu sou o Matheus <img src="yinyang.svg" width="32" align="center">
 Estudante de programação em Porto Alegre, aprendendo a criar sites e a resolver problemas com código.
 
 ## O que eu uso
@@ -16,8 +16,9 @@ Estudante de programação em Porto Alegre, aprendendo a criar sites e a resolve
 
 ## Estou aprendendo
 
-- JavaScript
+- JavaScript avançado 
 - Banco de dados
 - Inglês
+- 
 
 ![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=1F4FFF&height=100&section=footer)
