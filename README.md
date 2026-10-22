@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner-estrelas.jpg)
 
 # Oi, eu sou o Matheus ☯
 Estudante de programação em Porto Alegre, aprendendo a criar sites e a resolver problemas com código.
